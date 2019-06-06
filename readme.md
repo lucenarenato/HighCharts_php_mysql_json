@@ -13,6 +13,6 @@
 - renatolucena.net
 
 ## Blog
-- ws.renatolucena.top
+- blog.renatolucena.net
 
 - Renato Lucena 2019
